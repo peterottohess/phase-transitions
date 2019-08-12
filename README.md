@@ -8,3 +8,11 @@ for the potential and the equation for critical points,
 which can be retrieved from the manuscript (manuscript.pdf).
 Also the rotational parameter a (in the Kerr metric) can
 be changed to the value desired. 
+The C++ files are needed in the Gyoto routine. The version 
+of the Gyoto routine is from 2014!
+Ref.: Vincent F. H., Paumard T., Gourgoulhon E., Perrin G., 
+Class. Quantum Gravity 2011, 28, 225011.
+the 2014 version can be found in:
+Sch¨onenbach T., 2014b, Available at: https://github.com/schoenenbach/Gyoto
+A Manual for GYOTO can be found in:
+http://www.gyoto.obspm.fr/GyotoManual.pdf
